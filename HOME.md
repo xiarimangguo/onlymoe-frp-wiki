@@ -1,4 +1,4 @@
-# SakuraFrp 帮助文档
+# OnlymoeFrp 帮助文档
 
 [faq](/faq.md ':include')
 
@@ -67,7 +67,7 @@
 
 ---
 
-本文档使用 Github Pages 服务托管，[点我前往托管仓库](https://github.com/natfrp/wiki)。
+本文档使用 Github Pages 服务托管，[点我前往托管仓库](https://github.com/xiarimangguo/onlymoe-frp-wiki)。
 
 ---
 
@@ -75,15 +75,11 @@
 
 ### 水群
 
-- 群号：1149532962
+- 群号：
 - 非官方群，群内没有网站管理员
 
 ### 内测反馈群
 
-- 群号：1142361664
+- 群号：
 - 群内<b style="color: red">不提供任何使用帮助</b>
 - 禁止水群
-
-### VIP 反馈群
-
-请前往 [用户信息](https://www.natfrp.com/user/profile) 页面查看详情。

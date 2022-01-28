@@ -2,7 +2,7 @@
 
 ## 数据安全
 
-我们严格按照 [隐私策略](https://www.natfrp.com/policy/privacy) 执行，并使用最新版本服务端软件。
+我们严格按照 [隐私策略](https://onlymoe.ga/policy/privacy) 执行，并使用最新版本服务端软件。
 
 在架构设计适宜、法律法规许可的情况下总是使用 E2E 设计，以保证我们也无法解密您的数据。
 

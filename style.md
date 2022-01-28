@@ -6,7 +6,7 @@
 ## 用语约定
 
  - 文档阅读者: `您`
- - 本平台: `SakuraFrp`
+ - 本平台: `OnlymoeFrp`
  - HTTP 或 HTTPS 隧道: `HTTP(S) 隧道`
 
 ## 符号约定
