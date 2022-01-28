@@ -1,4 +1,12 @@
-# OnlymoeFrp 帮助文档
+# Onlymoe Frp 帮助文档
+
+## 关于本文档
+
+本文档参考(复制)了 Sakura Frp 的文档，所以如果有一些问题的话请多多包涵～
+
+在此感谢各位大侠为本文档做出的的贡献 [Contributors](/about.md#贡献者)
+
+如果你希望完善这份使用帮助，快来提交 [Issue](https://github.com/xiarimangguo/onlymoe-frp-wiki/issues ':target=_blank') 或发起 [Pull Request](https://github.com/xiarimangguo/onlymoe-frp-wiki/pulls ':target=_blank') 帮助我们进行更正吧。
 
 [faq](/faq.md ':include')
 
