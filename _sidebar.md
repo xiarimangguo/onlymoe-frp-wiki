@@ -1,5 +1,7 @@
 - [**首页**](/HOME)
 
+- [<b style="font-size: var(--bodyFontSize);">内网穿透基础知识</b>](/basics)
+
 - <a href="/#/faq"><span style="color: red;font-weight: 700;font-size: var(--bodyFontSize);">常见问题</span></a>
 
   - [客户端错误 (隧道打不开)](/faq/client-error)
